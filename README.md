@@ -1,2 +1,2 @@
 # Xylophone-master-iOS11
-An iOS App that enable users to play a Xylophone on their devices
+An iOS App that enables users to play the Xylophone on their devices
